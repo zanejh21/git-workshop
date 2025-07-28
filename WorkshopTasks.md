@@ -8,18 +8,18 @@
 
 ## Tasks
 
-1. **Fork** the repository <https://github.com/benroberts999/git-workshop> on github
+1. **Fork** the repository <https://github.com/benroberts999/git-workshop> on github DONE
 
 * click the 'fork' button
 
-2. **Clone** your version of the repo to your pc
+2. **Clone** your version of the repo to your pc DONE
 
 * Command line: `git clone <repo-name>`
 * Or, chose "clone repository" from the "source Control" tab in VSCode (cntl+shift+g)
 * As an alternative to 1 and 2, simply clone a copy of my repo. If you want to publish the changes to your github account, you'll have to create an empty repo on github.com, and update the 'remote' address of this repo to point to that one
   * `git remote add origin <your_repo>`
 
-3. **Make some changes** in the repository (don't commit them yet)
+3. **Make some changes** in the repository (don't commit them yet) DONE
 
 * For example, add a new line to the README file, or add a new text file
 * Use `git diff` (or the source controll tab) to see your changes
